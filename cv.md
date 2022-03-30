@@ -23,17 +23,17 @@ A huge desire to learn and develop in the field of Front-end development.
 2021-2022
 :   **Self-education of Front-end development**;
 
-    basic HTML/CSS - https://htmlacademy.ru
+    *basic HTML/CSS - https://htmlacademy.ru
     
-    bacis Javascript - https://learn.javascript.ru
+    bacis Javascript - https://learn.javascript.ru*
 
 2021
 :   **Stormnet Technologies (Minsk)**;
 
-    Software Testing
+    *Software Testing*
 
 2012-2017
 :   **Vitebsk State Order of Peoples' Friendship Medical University (Vitebsk)**; 
 
 
-    Higher education Pharmaceutical , Pharmacist
+    *Higher education Pharmaceutical , Pharmacist*
