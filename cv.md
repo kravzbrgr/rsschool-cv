@@ -15,7 +15,7 @@ A huge desire to learn and develop in the field of Front-end development.
 
 *LinkedIn*                          https://www.linkedin.com/in/kravtsovaanastasia/
 
-
+--- ---
 
 
 ## Education
@@ -37,3 +37,4 @@ A huge desire to learn and develop in the field of Front-end development.
 
 
     *Higher education Pharmaceutical , Pharmacist*
+--- ---
