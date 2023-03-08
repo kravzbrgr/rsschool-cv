@@ -1,6 +1,7 @@
-<image src="https://github.com/kravzbrgr/rsschool-cv/blob/gh-pages/IMG_6404.jpg" alt="Текст с описанием картинки">
+<image width= 240 height=300 src="https://github.com/kravzbrgr/rsschool-cv/blob/gh-pages/IMG_6404.jpg" alt="фото"> 
 
-# Anastasia Kravtsova
+# Anastasia Kravtsova 
+  
 ## Junior Frontend Developer
 
 
@@ -15,3 +16,19 @@
 
 ********* 
 
+## About Myself:
+  
+I have little experience yet but a huge desire to learn and develop in the field of web development because I am very interested in the process of creating websites.
+
+## Skills:
+  * HTML5, CSS3
+  * JavaScript basic knowledge 
+  * Git, GitHub
+  * Web Testing 
+  * SQL basic knowledge 
+  
+## Languages
+  * **English** - Intermediate
+  * **German** - Intermediate
+  * **Russian** - Native
+  * **Belarusian** - Native
