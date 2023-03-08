@@ -1,4 +1,4 @@
-
+<image src="https://github.com/kravzbrgr/rsschool-cv/blob/gh-pages/IMG_6404.jpg" alt="Текст с описанием картинки">
 
 # Anastasia Kravtsova
 ## Junior Frontend Developer
